@@ -3,7 +3,7 @@
 An autonomous UV-C sterilization rover built on ESP32 with WiFi-based 
 control and real-time obstacle avoidance.
 
-![UV Robot](https://drive.google.com/file/d/12jlzWtBlpQ9sVgGAVUVX2YMD9mKA2D8Q/view?usp=sharing)
+![UV Robot](https://github.com/merpe24/uv-sterilization-robot/blob/main/IMG_3509.png)
 
 ---
 
